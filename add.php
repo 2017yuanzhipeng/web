@@ -1,3 +1,4 @@
 <?php 
-echo "测试";
+fsjfsd fs
+cho "测试";
 ?>
