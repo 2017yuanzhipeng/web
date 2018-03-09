@@ -1,1 +1,3 @@
-sfsjdfisd h
+<?php 
+echo "测试";
+?>
