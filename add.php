@@ -1,4 +1,3 @@
 <?php 
-fsjfsd fs
-cho "测试";
-?>
+echo phpinfo();
+?>`
